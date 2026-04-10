@@ -31,7 +31,7 @@ FoodHub needed to understand where orders were slowing down, which cuisines and 
 Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 ## Code
-Notebook: [`Chinmay_Learner_Notebook_Full_Code.ipynb`](Chinmay_Learner_Notebook_Full_Code.ipynb)
+Notebook: [`FoodHub_Order_Analysis.ipynb`](FoodHub_Order_Analysis.ipynb)
 
 ---
 *Author: Chinmay Rozekar*
